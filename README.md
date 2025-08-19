@@ -66,7 +66,6 @@ src/
 ├── app.py                    # Main Streamlit/Gradio app
 ├── doc_parser.py              # Parse and extract .docx text
 ├── vectorstore_utils.py       # FAISS vectorstore load/query
-├── perplexity_integration.py  # Perplexity API wrapper
 ├── process_identifier.py      # Classify process & document type
 ├── checklist_verification.py  # Verify docs vs ADGM checklist
 ├── red_flag_detector.py       # Flag compliance gaps
@@ -84,15 +83,9 @@ src/
 
 ---
 
-## 🤝 Contributing
-
-Pull requests & issue reports are welcome!  
-
----
-
 ## 📜 License
 
-MIT (or your choice)
+MIT
 
 ---
 
