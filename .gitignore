@@ -1,0 +1,24 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment files
+# Ignore all .env files anywhere in project
+**/.env
+.env
+# Ignore your custom virtual environment folder
+.VirEnv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode workspace settings
+.vscode/
