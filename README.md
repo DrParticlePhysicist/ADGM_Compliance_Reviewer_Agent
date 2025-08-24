@@ -2,6 +2,8 @@
 
 An AI-powered automation agent to streamline **compliance document review** for the Abu Dhabi Global Market (ADGM) regulatory framework.
 
+Demo: https://drive.google.com/file/d/1Am9am0j_OmXm-_kGJ2_y6ABlRBHWSNvM/view?usp=drivesdk
+
 ---
 
 ## 🎯 Project Overview
